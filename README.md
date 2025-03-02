@@ -38,3 +38,10 @@ if (file_exists($videoPath)) {
 } else {
     echo 'Video file not found.';
 }
+```
+## Social Media Links
+
+You can connect with me on the following platforms:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/shayan_golshan22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shayan.glshn/)
